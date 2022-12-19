@@ -1,1 +1,1 @@
-# solar-system-vr
+# PRO-C146-Student-Activity
